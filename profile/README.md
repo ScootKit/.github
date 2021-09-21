@@ -27,10 +27,10 @@ Currently, our official Dev-Team only consists of me, <a href="https://github.co
 Just some short words about me: I am a student from germany who runs this company as a side business and loses money on it, but I really enjoy doing stuff like this and working on new things ^^
 
 <h3>Support us</h3>
-As mentioned above I actively lose money on projects like this, so feel free to contribute by buying <a href="https://scnx.xyz/plans#credits">Credits</a> (currency to upgrade your plan in [SCNX](https://scnx.xyz)) or support us more directly on [Patreon](https://patreon.com/scnetwork).
+As mentioned above I actively lose money on projects like this, so feel free to contribute by buying <a href="https://scnx.xyz/plans#credits">Credits</a> (currency to upgrade your plan in <a href="https://scxn.xyz">SCNX</a>) or support us more directly on <a href="https://patreon.com/scnetwork">Patreon</a>.
 
 <h3>Questions?</h3>
-Feel free to join our [Discord-Server](https://sc-net.work/dc) and ask, we are happy to answer any questions you might have.\
+Feel free to join our <a href="https://sc-net.work/dc">Discord-Server</a> and ask, we are happy to answer any questions you might have.\
 💡 Important: If you have any questions with any of our open-source-repositorys, please create an issue in it or use discussions as we can't provide support for them on our Discord.
 
 Thanks and have a nice day 💕
