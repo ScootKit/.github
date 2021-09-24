@@ -5,7 +5,7 @@
 SC Network
 </h2>
 <p align="center">
-    Building innovativ solutions for you and your community
+    Building innovative solutions for you and your community
 </p>
 <hr> 
 <h3>Who we are</h3>
