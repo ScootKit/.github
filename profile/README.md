@@ -29,6 +29,10 @@ Just some short words about me: I am a student from germany who runs this compan
 <h3>Support us</h3>
 As mentioned above I actively lose money on projects like this, so feel free to contribute by buying <a href="https://scnx.xyz/plans#credits">Credits</a> (currency to upgrade your plan in <a href="https://scxn.xyz">SCNX</a>) or support us more directly on <a href="https://patreon.com/scnetwork">Patreon</a>.
 
+<h3>Our Tech-Stacks</h3>
+We have published most of our Tech-Stacks on [stackshare](https://stackshare.io/companies/sc-network#tech-stacks) - feel free to check them out!
+
+
 <h3>Questions?</h3>
 Feel free to join our <a href="https://sc-net.work/dc">Discord-Server</a> and ask, we are happy to answer any questions you might have.\
 💡 Important: If you have any questions with any of our open-source-repositorys, please create an issue in it or use discussions as we can't provide support for them on our Discord.
