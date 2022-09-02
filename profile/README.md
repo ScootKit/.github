@@ -27,7 +27,7 @@ Just some short words about me: I am a student from germany who runs this compan
 As mentioned above I actively lose money on projects like this, so feel free to contribute by buying <a href="https://scnx.xyz/plans#credits">Credits</a> (currency to upgrade your plan in <a href="https://scxn.xyz">SCNX</a>) or support us more directly on <a href="https://patreon.com/scnetwork">Patreon</a>.
 
 <h3>Our Tech-Stacks</h3>
-We have published most of our Tech-Stacks on <a href="https://stackshare.io/companies/sc-network#tech-stacks">stackshare</a> - feel free to check them out!
+We have published most of our Tech-Stacks on <a href="https://stackshare.io/companies/scootkit#tech-stacks">stackshare</a> - feel free to check them out!
 
 
 <h3>Questions?</h3>
