@@ -1,9 +1,7 @@
 <p align="center">
-  <img height="200" src="https://scnx-cdn.scootkit.net/1731248314860-TcHDy5uga0uc2sdCqHnylb13.png" />
+  <img width="350" src="https://scootkit.com/img/colored-no-white-accent-logo-text-only.png" />
 </p>
-<h2 align="center">
-ScootKit
-</h2>
+<p></p>
 <p align="center">
     Software that unlocks your full potential
 </p>
